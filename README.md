@@ -2,7 +2,7 @@
 
 **Kirill Sirik** · Princeton University · SML301 Final Project · December 2025
 
-[**📄 Full report (PDF)**](report/SML301_Final_Project.pdf) · [**📊 Presentation slides (PDF)**](presentation/SML301_Final_Presentation.pdf) · [**📓 Analysis notebook**](notebooks/final_project_code.ipynb) ([view in nbviewer](https://nbviewer.org/github/kirillsirik/Yelp-Open-Dataset-Project/blob/main/notebooks/final_project_code.ipynb))
+[**📄 Full report (PDF)**](report/SML301_Final_Project.pdf) · [**📓 Analysis notebook**](notebooks/final_project_code.ipynb) ([view in nbviewer](https://nbviewer.org/github/kirillsirik/Yelp-Open-Dataset-Project/blob/main/notebooks/final_project_code.ipynb))
 
 Using the [Yelp Open Dataset](https://business.yelp.com/data/resources/open-dataset/) — 150,346 businesses and ~7 million reviews across 11 metropolitan areas — this project asks two questions:
 
